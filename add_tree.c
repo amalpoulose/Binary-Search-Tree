@@ -1,4 +1,4 @@
-/* // With recursion  
+/* With recursion  
 
 #include"tree.h"
 void add_tree(TREE **ptr , int n)
@@ -48,7 +48,7 @@ void add_tree(TREE **ptr , int n)
 	}
 }*/
    
-/*  With out recursion (function)*/
+/*  With out recursion & (function)*/
 #include"tree.h"
 void add_tree(TREE **ptr , int n)
 {
